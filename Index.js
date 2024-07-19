@@ -1,4 +1,3 @@
-
 const heading = "Hello world!";
 const root = getElementByID("root");
 root.append(heading);
